@@ -1,0 +1,16 @@
+[
+{
+  "modid": "antm",
+  "name": "AntiTech",
+  "description": "A hightech mod about antimatter , it's usage and processing . But to reach it , you will have to come through many tiers ",
+  "version": "0.1-pre alpha",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kave"],
+  "credits": "Nobody",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
