@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "antm:copper_block" }
+    }
+}
